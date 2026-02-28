@@ -40,6 +40,10 @@ Le projet modélise l'intervention de l'État via deux leviers sous contrainte d
 
 Les simulations montrent qu'une combinaison des deux permet de réduire le pic d'infection, mais que l'efficacité dépend drastiquement de $t_{delay}$, le délai de réaction avant le début de l'intervention.
 
+## 📈 Aperçu des résultats
+![Simulation épidémie](image_simu.png)
+![Impact de la contre-ingérence](image_opti.png)
+
 ## 🗂️ Structure du Dépôt
 * `FakeNews.pdf` : Rapport complet incluant l'analyse théorique (points d'équilibre, stabilité locale) et la discussion complète des paramètres.
 * `simulation.py` : Script de résolution du système d'EDO via `scipy.integrate.odeint`.
