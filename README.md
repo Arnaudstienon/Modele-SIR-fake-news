@@ -2,7 +2,7 @@
 
 **Application aux stratégies de contre-ingérence sur les réseaux sociaux.**
 * **Auteur :** Arnaud Stienon
-* **Institution :** UCLouvain - EPL
+* **Institution :** UCLouvain - EPL, étudiant
 * **Date :** Février 2026
 
 ## 🎯 Contexte et Objectif
